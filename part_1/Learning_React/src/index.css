@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Coming+Soon&display=swap');
+
+:root{
+    /* --background-color: antiquewhite; */
+    --background-color: rgb(211, 126, 173);
+
+}
+
+* {
+    /* font-family: 'Courier New', Courier, monospace; */
+    /* font-family: "Coming Soon", cursive; */
+    font-family: "Architects Daughter", cursive;
+}
+
+body{
+    font-size: 20PX;
+    background-color: var(--background-color)
+}
