@@ -16,7 +16,7 @@ const Part = (props) => {
   )
 }
 
-// Content component - Displays all parts of the course
+// Content component - jDisplays all parts of the course
 const Content = (props) => {
   return (
     <div>

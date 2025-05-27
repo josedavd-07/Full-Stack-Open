@@ -33,7 +33,7 @@ const ActualizacionDeEstadoAsincrona = () => {
             <button onClick={handleRightClick}>right</button>
             {right}
             <p>{allClicks.join(' ')}</p>
-            <p>total {total}</p>
+            <p>total: {total}</p>
         </div>
     )
 }

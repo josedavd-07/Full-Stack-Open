@@ -15,8 +15,8 @@ import './index.css'
 // import RefactorizarComponentes from './_12_RefactorizarComponentes'
 // import EstadoComplejo from './_13_EstadoComplejo'
 // import ManejoDeArrays from './_14_ManejoDeArrays'
-// import ActualizacionDeEstadoAsincrona from './_15_ActualizacionDeEstadoAsincrona'
-import RenderizadoCondicional from './_16_RenderizadoCondicional'
+import ActualizacionDeEstadoAsincrona from './_15_ActualizacionDeEstadoAsincrona'
+// import RenderizadoCondicional from './_16_RenderizadoCondicional'
 
 // Variables counter esto es del componente de renderizado de pagina
 // let counter = 1
@@ -43,6 +43,6 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     // <RefactorizarComponentes />
     // <EstadoComplejo />
     // <ManejoDeArrays />
-    // <ActualizacionDeEstadoAsincrona />
-    <RenderizadoCondicional />
+    <ActualizacionDeEstadoAsincrona />
+    // <RenderizadoCondicional />
 )
